@@ -1,5 +1,6 @@
 # OpenSlides Client
 
+
 Web client for OpenSlides 4+ which serves as the users main interaction point while using the OpenSlides system.
 Delivers a responsive web application written in Angular Material, serving web browsers on both desktop systems,
 smartphones and tablet PCs.
